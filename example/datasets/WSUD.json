@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    {"id": "WSUD", "group": 1},
+    {"id": "Napoleon", "group": 1},
+    {"id": "Labarre", "group": 2},
+    {"id": "Valjean", "group": 2},
+    {"id": "Marguerite", "group": 3},
+  
+  ],
+  "links": [
+    {"source": "Wetlands", "target": "WSUD", "value": 1},
+    {"source": "Swales", "target": "WSUD", "value": 8},
+    {"source": "Rain gardens", "target": "WSUD", "value": 10},
